@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @damru2005
-- 👀 I’m interested in hacking,app coding etc.
-- 🌱 I’m currently learning nothing
+- 👀 I’m interested in Hacking, Coding etc.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on here
 - 📫 How to reach me deukumawat4@gmail.com
 
